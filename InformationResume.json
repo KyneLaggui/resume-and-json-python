@@ -1,0 +1,31 @@
+[
+    {
+        "lastname": "Murallos,",
+        "firstname": "Solana",
+        "middlename": "Navarro",
+        "age": 18,
+        "address": "123 Block Prenza United States of Intramuros Manila",
+        "emailadd": "solanalemrlls@gmail.com",
+        "contactnumber": "09123456789",
+        "description": "A highly imaginative filmmaker with a strong passion for creating independent films",
+        "skills": ["Well Sharpened Time Management", "Written and Verbal abilities", "Proficiency in Adobe Creative Studios", "Knowledge of camera stabilization systems"],
+        "gender": "Female",
+        "birthday": "August 28, 2003",
+        "citizenship": "Filipino",
+        "religion": "Born Again Christian",
+        "achievements": ["Best Visual Effect Editor 2021-2025", "Magna Cum Laude in the year 2025", "Best Picture at MMFF 2021"],
+        "educationalbg":[
+            {
+                "School": "Prenza National High School",
+                "AcadYear": "2015-2020"
+            },
+            {
+                "School": "Pamantasan ng Lungsod ng Maynila",
+                "AcadYear": "2020-Present"
+            }
+
+        ]
+
+
+    }
+]
